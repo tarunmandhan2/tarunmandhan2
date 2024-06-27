@@ -25,6 +25,16 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tarunmandhan2&theme=dracula)](https://git.io/streak-stats)
 
+
+<br>
+
+ <a href="https://github.com/SamirPaulb"><img loading="lazy" src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=white&labelColor=blue" alt="Visitors"></a> 
+
+
+
+
+
+
 The best way to contact me is to use my email address which is present at the top of most calibre or kitty source code files.
 <!--
 **tarunmandhan2/tarunmandhan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
