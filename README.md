@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 
+<p align="center">
+<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Name%20Banner.jpg" />
+</p>
+
 
 ### Hi there 👋
 ![Kovid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarunmandhan2&theme=dracula&show_icons=true&include_all_commits=true)
