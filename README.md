@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sulagna-dutta-roy&label=Profile%20views&color=0e75b6&style=flat" alt="Tarun2" /> </p>
  🌱 I’m mostly interested in:
       <a href="https://github.com/Sabyasachi-Seal">
       <img align="center" width=50% height=50% src="https://readme-typing-svg.herokuapp.com?font=Manrope&color=%23F78240&center=true&vCenter=true&width=150%&height=23%&lines=React;Javascript;CSS+3;J+W+T" /></a>
